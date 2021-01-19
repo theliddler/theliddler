@@ -1,4 +1,4 @@
-### Hey, folks!
+### Hey, folks! <img src="https://raw.githubusercontent.com/theliddler/theliddler/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working with primarily Node JS and TypeScript.
 - 🌱 I’m currently learning about Deno and serverless architecture.
